@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/3-012sx-structure-of-materials-spring-2019/b037fac9a82c59cb7ba4bc2015981fc9_MIT3-012Sx-th.jpg
+file: /courses/3-012sx-structure-of-materials-spring-2019/b037fac9a82c59cb7ba4bc2015981fc9_MIT3-012Sx-th.jpg
 file_type: image/jpeg
 image_metadata:
   caption: 'A bundle of glass (silica) optical fibers. (Courtesy [Michael Wyszomierski](https://www.flickr.com/photos/wysz/86759396)
