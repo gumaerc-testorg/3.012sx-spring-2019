@@ -9,6 +9,7 @@ image_metadata:
   credit: ''
   image-alt: A bundle of blue optical fibers illuminated against a pitch black background.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: MIT3-012Sx-th.jpg
