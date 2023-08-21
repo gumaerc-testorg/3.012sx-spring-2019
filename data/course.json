@@ -32,7 +32,11 @@
     "content": "b037fac9-a82c-59cb-7ba4-bc2015981fc9",
     "website": "3-012sx-structure-of-materials-spring-2019"
   },
-  "learning_resource_types": [],
-  "site_uid": "b8016599-fed2-45ac-a7e8-2c171ede6530",
+  "learning_resource_types": [
+    "Lecture Videos",
+    "Exams with Solutions"
+  ],
+  "site_uid": "ee36a590-55cf-4ab2-9c2a-9c99eaa1b174",
+  "short_id": "3.012sx-spring-2019",
   "title": "Course Metadata"
 }
