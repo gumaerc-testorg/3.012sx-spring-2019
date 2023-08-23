@@ -1,7 +1,7 @@
 leftnav:
 - identifier: 87e218ac-cd9e-20c9-12f2-f74132078c23
   name: 'Part 1: Fundamentals of Materials Structure'
-  url: /pages/syllabus
+  pageRef: /pages/syllabus
   weight: 10
 - identifier: external-4575b2fa134944b191c2e5f676b966c0
   name: 'Part 1: Fundamentals of Materials Structure'
