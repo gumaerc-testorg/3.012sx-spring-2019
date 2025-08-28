@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/3-012sx-structure-of-materials-spring-2019/b037fac9a82c59cb7ba4bc2015981fc9_MIT3-012Sx-th.jpg
+file: /ol-ocw-studio-app/courses/3-012sx-structure-of-materials-spring-2019/b037fac9a82c59cb7ba4bc2015981fc9_MIT3-012Sx-th.jpg
 file_size: 28794
 file_type: image/jpeg
 image_metadata:
