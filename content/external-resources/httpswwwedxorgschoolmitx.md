@@ -5,7 +5,9 @@ external_url: https://www.edx.org/school/mitx
 has_external_license_warning: true
 is_broken: ''
 license: https://en.wikipedia.org/wiki/All_rights_reserved
+status: valid
 title: https://www.edx.org/school/mitx
 uid: ec3601e5-578c-4f5c-b925-7986791ff12e
+url_status_code: 200
 wayback_url: https://web.archive.org/web/20250811165852/https://www.edx.org/school/mitx
 ---
