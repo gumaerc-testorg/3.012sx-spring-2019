@@ -5,8 +5,9 @@ file: /ol-ocw-studio-app/courses/3-012sx-structure-of-materials-spring-2019/0a51
 file_size: 136213
 file_type: image/jpeg
 image_metadata:
-  caption: 'A bundle of glass (silica) optical fibers. (Courtesy [Michael Wyszomierski](https://www.flickr.com/photos/wysz/86759396)
-    on Flickr. License: CC BY-NC.)'
+  caption: 'A bundle of glass (silica) optical fibers. (Courtesy {{% resource_link
+    "c6469c9c-6732-49e0-b0a0-7ef944628347" "Michael Wyszomierski" %}} on Flickr. License:
+    CC BY-NC.)'
   credit: ''
   image-alt: A bundle of blue optical fibers illuminated against a pitch black background.
 learning_resource_types: []
